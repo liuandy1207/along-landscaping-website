@@ -1,0 +1,16 @@
+
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        .grid-container {
+            padding-left: 10px;
+            border-style: solid;
+            display: grid;
+            grid-template-columns: 50% 12.5% 12.5% 12.5% 12.5%;
+        }
+        .header-button {
+            background-color: aquamarine;
+            border-style: solid;
+        }
